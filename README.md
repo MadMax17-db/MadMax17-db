@@ -13,8 +13,8 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-MADMAX17--DB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/MadMax17-db)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](V)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:dakshthacker07@gmail.com)
 
 </div>
 
@@ -103,8 +103,8 @@ Email     →  Contact
 ```
 
 [**GitHub**](https://github.com/MadMax17-db) &nbsp; • &nbsp;
-[**LinkedIn**](YOUR_LINKEDIN_URL) &nbsp; • &nbsp;
-[**Email**](mailto:YOUR_EMAIL)
+[**LinkedIn**](https://www.linkedin.com/in/daksh-bhinde-99abb7360/) &nbsp; • &nbsp;
+[**Email**](mailto:dakshthacker07@gmail.com)
 
 <br><br>
 
