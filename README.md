@@ -13,7 +13,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-MADMAX17--DB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/MadMax17-db)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](V)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](V)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:dakshthacker07@gmail.com)
 
 </div>
