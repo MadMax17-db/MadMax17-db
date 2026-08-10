@@ -62,21 +62,7 @@ Git • GitHub • VS Code
 AWS • Microsoft Azure
 ```
 
----
 
-## `~/activity`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadMax17-db&theme=transparent&hide_border=true&background=0D111700&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C9D1D9&dates=8B949E" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadMax17-db&bg_color=0D1117&color=C9D1D9&line=238636&point=58A6FF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
