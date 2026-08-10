@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/TTerminal.png" width="100%" alt="Daksh Bhinde Terminal Profile"/>
+<img src="./assets/TTerminal.jng" width="100%" alt="Daksh Bhinde Terminal Profile"/>
 
 
 
