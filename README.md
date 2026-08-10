@@ -83,19 +83,3 @@ Email     →  Get in Touch
 <br><br>
 
 > `CODE → BUILD → DEBUG → LEARN → REPEAT`
-
-<br>
-
-```text
-madmax@github:~$ status
-
-SYSTEM     : ONLINE
-MODE       : BUILDING
-CURRENT    : JAVA + DSA
-NEXT       : AI + BACKEND + CLOUD
-OBJECTIVE  : SOFTWARE ENGINEER
-
-madmax@github:~$ _
-```
-
-</div>
