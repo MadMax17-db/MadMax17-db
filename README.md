@@ -222,13 +222,7 @@ Programming • DSA • AI • Cloud • Databases • Software Development
 
 LET'S BUILD SOMETHING.
 
-<div align="center">
 
-First, solve the problem. Then, write the code.
-
-// MADMAX OUT.
-
-</div>
 
 
 
