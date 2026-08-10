@@ -50,20 +50,6 @@ madmax@github:~$ ls ./projects
 
 ---
 
-## `~/stack`
-
-```text
-madmax@github:~$ echo $STACK
-
-Java • Python • C/C++
-HTML • CSS • JavaScript
-Flask • MySQL • MongoDB
-Git • GitHub • VS Code
-AWS • Microsoft Azure
-```
-
-
-
 <div align="center">
 
 ## `~/connect`
