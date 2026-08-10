@@ -1,26 +1,42 @@
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ madmax@github:~$ ./whoami                    madmax@github:~$ neofetch         │
-│                                                                              │
-│             ██████╗  █████╗ ██╗  ██╗███████╗██╗  ██╗                       │
-│             ██╔══██╗██╔══██╗██║ ██╔╝██╔════╝╚██╗██╔╝                       │
-│             ██║  ██║███████║█████╔╝ █████╗   ╚███╔╝                        │
-│             ██║  ██║██╔══██║██╔═██╗ ██╔══╝   ██╔██╗                        │
-│             ██████╔╝██║  ██║██║  ██╗███████╗██╔╝ ██╗                       │
-│             ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                       │
-│                                                                              │
-│   madmax@github:~$ whoami                  madmax@github                     │
-│   daksh bhinde                             ─────────────────────              │
-│                                            Name       Daksh Bhinde            │
-│   > build                                  Role       CSE Student             │
-│   > solve                                  Focus      Java + DSA               │
-│   > learn                                  Building   AI + Backend             │
-│   > repeat                                 Cloud      AWS + Azure              │
-│                                            Status     Always Learning          │
-│                                            University Parul University         │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+madmax@github:~$ ./whoami
+
+        ██████╗  █████╗ ██╗  ██╗███████╗██╗  ██╗
+        ██╔══██╗██╔══██╗██║ ██╔╝██╔════╝╚██╗██╔╝
+        ██║  ██║███████║█████╔╝ █████╗   ╚███╔╝
+        ██║  ██║██╔══██║██╔═██╗ ██╔══╝   ██╔██╗
+        ██████╔╝██║  ██║██║  ██╗███████╗██╔╝ ██╗
+        ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
+madmax@github:~$ _
+
+</td>
+
+<td width="50%" valign="top">
+
+madmax@github:~$ neofetch
+
+Name       Daksh Bhinde
+Role       CSE Student
+Focus      Java + DSA
+Building   AI + Backend
+Cloud      AWS + Azure
+Education  Parul University
+Status     Always Learning
+
+Stack      Java, Python, C/C++
+           HTML, CSS, JavaScript
+           Flask, MySQL, MongoDB
+           Git, GitHub, VS Code
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 DAKSH BHINDE
 
@@ -32,36 +48,47 @@ Build. Break. Learn. Repeat.
 
 </div>
 
-~/about
+01 // ABOUT
 
-I'm Daksh — a B.Tech CSE student who enjoys turning ideas
-into practical software.
+B.Tech CSE student focused on Java, DSA, AI, backend development and cloud.
 
-Currently focused on:
-→ Java + Data Structures & Algorithms
-→ AI and voice-assistant projects
-→ Backend development
-→ AWS + Microsoft Azure
+I like turning ideas into practical projects, solving problems, and learning by building.
 
-I learn by building, debugging, and doing the work.
+CURRENTLY
+→ Improving Java + DSA
+→ Building AI / Voice Assistant projects
+→ Learning backend development
+→ Exploring AWS + Azure
 
-~/stack
+02 // PROJECTS
 
-LANGUAGES
-Java        Python        C        C++
+Project
 
-DEVELOPMENT
-HTML        CSS           JavaScript
-Flask       REST APIs
+Description
 
-DATABASES
-MySQL       MongoDB
+Tech
 
-TOOLS
-Git         GitHub        VS Code
+🤖 Voice Assistant
 
-CLOUD
-AWS         Microsoft Azure
+Voice-based assistant for processing user queries
+
+Python • Speech • JSON
+
+📊 Placement Tracker
+
+Track DSA, projects, certificates and placement prep
+
+Web • Dashboard
+
+💻 LeetCode Solutions
+
+Java solutions for DSA and algorithms
+
+Java • DSA
+
+Voice Assistant →Placement Tracker →LeetCode Solutions →
+
+03 // STACK
 
 <div align="center">
 
@@ -69,66 +96,17 @@ AWS         Microsoft Azure
 
 </div>
 
-~/projects
-
-Project
-
-What it does
-
-Stack
-
-🤖 Voice Assistant
-
-Voice-based assistant for processing user queries and responses
-
-Python Speech JSON
-
-📊 Placement Tracker
-
-Helps students track DSA, projects, certificates and placement preparation
-
-Web Dashboard
-
-💻 LeetCode Solutions
-
-Java solutions for DSA and algorithmic problems
-
-Java DSA
-
-Repositories
-
-→ Voice Assistant
-
-→ Placement Tracker
-
-→ LeetCode Solutions
-
-~/learning
-
-JAVA + DSA                 █████████░  90%
-BACKEND DEVELOPMENT        ███████░░░  70%
-AI PROJECTS                ███████░░░  70%
-CLOUD COMPUTING            ██████░░░░  60%
-SYSTEM DESIGN              █████░░░░░  50%
-
-Current targets
-
-[✓] Build a strong Java foundation
-[✓] Practice DSA consistently
-[ ] Build larger AI projects
-[ ] Improve backend architecture
-[ ] Gain deeper cloud experience
-[ ] Prepare for software engineering internships
-
-~/github --stats
+04 // GITHUB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MadMax17-db&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MadMax17-db&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax17-db&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=C4B5FD&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax17-db&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=C4B5FD&text_color=E5E7EB" />
 
 </div>
+
+05 // CONTRIBUTIONS
 
 <div align="center">
 
@@ -136,45 +114,37 @@ Current targets
 
 </div>
 
-~/contributions --graph
+06 // CURRENT GOALS
+
+[█████████░] Java + DSA
+[███████░░░] Backend
+[███████░░░] AI Projects
+[██████░░░░] Cloud
+[█████░░░░░] System Design
+
+→ Become a stronger problem solver
+→ Build useful real-world projects
+→ Prepare for software engineering internships
+
+07 // CONNECT
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadMax17-db&bg_color=00000000&color=E5E7EB&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" />
-
-</div>
-
-~/philosophy
-
-<div align="center">
-
-"First, solve the problem. Then, write the code."
-
-CODE → BUILD → DEBUG → LEARN → REPEAT
-
-</div>
-
-~/connect
-
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-MadMax17--db-0D1117?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/MadMax17-db)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/daksh-bhinde-99abb7360/)
-
-[![Email](https://img.shields.io/badge/Email-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:dakshthacker07@gmail.com)
 
 
 </div>
 
 <div align="center">
+
+First, solve the problem. Then, write the code.
 
 madmax@github:~$ status
 
-SYSTEM       : ONLINE
-MODE         : BUILDING
-CURRENT      : JAVA + DSA
-NEXT         : AI + BACKEND + CLOUD
-OBJECTIVE    : SOFTWARE ENGINEER
+SYSTEM     : ONLINE
+MODE       : BUILDING
+CURRENT    : JAVA + DSA
+NEXT       : AI + BACKEND + CLOUD
+OBJECTIVE  : SOFTWARE ENGINEER
 
 madmax@github:~$ _
 
