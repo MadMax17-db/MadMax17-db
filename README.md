@@ -1,249 +1,181 @@
 <div align="center">
 
-<img src="./assets/MadMax17-banner.png" alt="MadMax17 Developer Banner" width="100%"/>
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ madmax@github:~$ ./whoami                    madmax@github:~$ neofetch         │
+│                                                                              │
+│             ██████╗  █████╗ ██╗  ██╗███████╗██╗  ██╗                       │
+│             ██╔══██╗██╔══██╗██║ ██╔╝██╔════╝╚██╗██╔╝                       │
+│             ██║  ██║███████║█████╔╝ █████╗   ╚███╔╝                        │
+│             ██║  ██║██╔══██║██╔═██╗ ██╔══╝   ██╔██╗                        │
+│             ██████╔╝██║  ██║██║  ██╗███████╗██╔╝ ██╗                       │
+│             ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                       │
+│                                                                              │
+│   madmax@github:~$ whoami                  madmax@github                     │
+│   daksh bhinde                             ─────────────────────              │
+│                                            Name       Daksh Bhinde            │
+│   > build                                  Role       CSE Student             │
+│   > solve                                  Focus      Java + DSA               │
+│   > learn                                  Building   AI + Backend             │
+│   > repeat                                 Cloud      AWS + Azure              │
+│                                            Status     Always Learning          │
+│                                            University Parul University         │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 
-BUILD • CODE • DEPLOY • REPEAT
+DAKSH BHINDE
+
+CSE STUDENT • DEVELOPER • PROBLEM SOLVER
+
+Build. Break. Learn. Repeat.
 
 
 
 </div>
 
-01. ABOUT ME
+~/about
+
+I'm Daksh — a B.Tech CSE student who enjoys turning ideas
+into practical software.
+
+Currently focused on:
+→ Java + Data Structures & Algorithms
+→ AI and voice-assistant projects
+→ Backend development
+→ AWS + Microsoft Azure
+
+I learn by building, debugging, and doing the work.
+
+~/stack
+
+LANGUAGES
+Java        Python        C        C++
+
+DEVELOPMENT
+HTML        CSS           JavaScript
+Flask       REST APIs
+
+DATABASES
+MySQL       MongoDB
+
+TOOLS
+Git         GitHub        VS Code
+
+CLOUD
+AWS         Microsoft Azure
 
 <div align="center">
 
-Hey there! I'm Daksh Bhinde 👋
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,flask,mysql,mongodb,git,github,vscode,aws,azure&theme=dark" />
 
 </div>
 
-I'm a B.Tech CSE student interested in software development, problem solving, AI, backend development and cloud technologies.
+~/projects
 
-I enjoy turning ideas into working projects, solving DSA problems and learning new technologies by actually building with them.
+Project
 
-while (alive) {
-    learn();
-    build();
-    breakThings();
-    debug();
-    repeat();
-}
+What it does
 
-I don't just want to learn technology. I want to build with it.
-
-02. WHAT I'M FOCUSED ON
-
-Focus
-
-What I'm Doing
-
-☕ Java + DSA
-
-Building strong programming and problem-solving fundamentals
-
-🤖 AI Projects
-
-Building voice-assistant and AI-powered projects
-
-🌐 Backend
-
-Learning APIs, databases and backend architecture
-
-☁️ Cloud
-
-Exploring AWS and Microsoft Azure
-
-💼 Career
-
-Preparing for software engineering internships
-
-03. TECH STACK
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" />
-</p>
-
-Development & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,mysql,mongodb&theme=dark" />
-</p>
-
-Tools & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure&theme=dark" />
-</p>
-
-04. TOP PROJECTS
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
+Stack
 
 🤖 Voice Assistant
 
-A Python-based voice assistant that processes user queries and provides responses.
+Voice-based assistant for processing user queries and responses
 
-Built with
-
-Python Speech Recognition TTS JSON
-
-View Repository →
-
-</td>
-
-<td width="33%" valign="top">
+Python Speech JSON
 
 📊 Placement Tracker
 
-A student-focused project for tracking DSA progress, projects, certificates and placement preparation.
+Helps students track DSA, projects, certificates and placement preparation
 
-Focus
-
-Dashboard Productivity Tracking
-
-View Repository →
-
-</td>
-
-<td width="33%" valign="top">
+Web Dashboard
 
 💻 LeetCode Solutions
 
-A growing collection of Java solutions for DSA and algorithmic problems.
+Java solutions for DSA and algorithmic problems
 
-Focus
+Java DSA
 
-Java DSA Algorithms
+Repositories
 
-View Repository →
+→ Voice Assistant
 
-</td>
+→ Placement Tracker
 
-</tr>
-</table>
+→ LeetCode Solutions
 
-05. DSA JOURNEY
+~/learning
 
-                  ┌───────────────┐
-                  │    PROBLEM    │
-                  └───────┬───────┘
-                          ↓
-                  ┌───────────────┐
-                  │    ANALYZE    │
-                  └───────┬───────┘
-                          ↓
-                  ┌───────────────┐
-                  │ FIND PATTERN  │
-                  └───────┬───────┘
-                          ↓
-                  ┌───────────────┐
-                  │     CODE      │
-                  └───────┬───────┘
-                          ↓
-                  ┌───────────────┐
-                  │ DEBUG & LEARN │
-                  └───────────────┘
-
-Current DSA Areas
-
-Arrays • Strings • Linked Lists • Stacks • Queues
-
-Trees • Graphs • Hashing • Binary Search
-
-Greedy • Sorting • Dynamic Programming
-
-06. GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MadMax17-db&show_icons=true&hide_border=true&theme=transparent&title_color=C4B5FD&icon_color=A78BFA&text_color=FFFFFF&bg_color=00000000" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax17-db&layout=compact&hide_border=true&theme=transparent&title_color=C4B5FD&text_color=FFFFFF&bg_color=00000000" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MadMax17-db&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=FFFFFF&dates=9CA3AF&background=00000000" />
-
-</div>
-
-07. CONTRIBUTION
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadMax17-db&bg_color=00000000&color=FFFFFF&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" />
-
-<br>
-
-More contributions → More learning.
-
-</div>
-
-08. CURRENTLY LEARNING
-
-JAVA & DSA                 █████████░  90%
+JAVA + DSA                 █████████░  90%
 BACKEND DEVELOPMENT        ███████░░░  70%
 AI PROJECTS                ███████░░░  70%
 CLOUD COMPUTING            ██████░░░░  60%
 SYSTEM DESIGN              █████░░░░░  50%
 
-Next Targets
+Current targets
 
-Become a stronger problem solver
+[✓] Build a strong Java foundation
+[✓] Practice DSA consistently
+[ ] Build larger AI projects
+[ ] Improve backend architecture
+[ ] Gain deeper cloud experience
+[ ] Prepare for software engineering internships
 
-Master Java + DSA
-
-Build impactful AI projects
-
-Improve backend development
-
-Gain practical cloud experience
-
-Land a strong software engineering internship
-
-09. EDUCATION
-
-🎓 B.Tech — Computer Science & Engineering
-
-Parul University
-
-Currently strengthening my foundation in:
-
-Programming • DSA • AI • Cloud • Databases • Software Development
-
-10. CONNECT
+~/github --stats
 
 <div align="center">
 
-LET'S BUILD SOMETHING.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MadMax17-db&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB" />
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadMax17-db&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=C4B5FD&text_color=E5E7EB" />
 
+</div>
 
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=MadMax17-db&theme=transparent&hide_border=true&background=00000000&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=9CA3AF" />
 
+</div>
 
+~/contributions --graph
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadMax17-db&bg_color=00000000&color=E5E7EB&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" />
 
+</div>
 
+~/philosophy
 
+<div align="center">
 
+"First, solve the problem. Then, write the code."
 
+CODE → BUILD → DEBUG → LEARN → REPEAT
 
+</div>
 
+~/connect
+
+<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-MadMax17--db-0D1117?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/MadMax17-db)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/daksh-bhinde-99abb7360/)
+
+[![Email](https://img.shields.io/badge/Email-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:dakshthacker07@gmail.com)
 
 
 </div>
 
 <div align="center">
 
-First, solve the problem. Then, write the code.
+madmax@github:~$ status
 
-// MADMAX OUT.
+SYSTEM       : ONLINE
+MODE         : BUILDING
+CURRENT      : JAVA + DSA
+NEXT         : AI + BACKEND + CLOUD
+OBJECTIVE    : SOFTWARE ENGINEER
+
+madmax@github:~$ _
 
 </div>
