@@ -72,8 +72,8 @@ AWS • Microsoft Azure
 madmax@github:~$ connect
 
 GitHub    →  MadMax17-db
-LinkedIn  →  Connect
-Email     →  Contact
+LinkedIn  →  Professional Profile
+Email     →  Get in Touch
 ```
 
 [**GitHub**](https://github.com/MadMax17-db) &nbsp; • &nbsp;
